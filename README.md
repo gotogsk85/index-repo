@@ -8,3 +8,7 @@ An Index Of My Work
  
  - <a target="_blank" href="https://gotogsk85.github.io/calendar-events-plotting/">Calendar Event Plotting</a>
  
+ - <a target="_blank" href="https://gotogsk85.github.io/todo-angular/">To Do List - Angular</a>
+ 
+ - <a target="_blank" href="https://gotogsk85.github.io/dsalgos/">DS ALGO</a>
+ 
