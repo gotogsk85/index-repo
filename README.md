@@ -2,6 +2,8 @@
 
 An Index Of My Work
 
+ - <a target="_blank" href="https://gotogsk85.github.io/excel-table-sorting/">Excel Spreadsheet Sorting</a>
+
  - <a target="_blank" href="https://gotogsk85.github.io/custom-angularjs-infinite-scroll/">custom angularjs infinite scroll</a>
 
  - <a target="_blank" href="https://gotogsk85.github.io/fblike-post-localStorage/">mini FB (like) post local storage</a>
