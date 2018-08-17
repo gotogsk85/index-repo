@@ -2,7 +2,7 @@
 
 An Index Of My Work
 
- - <a target="_blank" href="https://gotogsk85.github.io/excel-table-sorting/">Excel spreadsheet Sorting</a>
+ - <a target="_blank" href="https://gotogsk85.github.io/excel-table-sorting/">Excel Spreadsheet Sorting</a>
 
  - <a target="_blank" href="https://gotogsk85.github.io/custom-angularjs-infinite-scroll/">custom angularjs infinite scroll</a>
 
